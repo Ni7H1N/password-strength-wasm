@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\deps\icu_normalizer-328511a21ae4b86b.d: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\properties.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\provider.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\uts46.rs
+
+C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\deps\libicu_normalizer-328511a21ae4b86b.rlib: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\properties.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\provider.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\uts46.rs
+
+C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\deps\libicu_normalizer-328511a21ae4b86b.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\properties.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\provider.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\uts46.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\properties.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\provider.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.0\src\uts46.rs:

@@ -1,0 +1,22 @@
+[package]
+name = "pwd_strength"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "Password strength estimation core library (starter)"
+license = "MIT"
+
+[lib]
+name = "pwd_strength"
+path = "src/lib.rs"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+reqwest = { version = "0.12.24", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+sha1 = "0.10"
+wasm-bindgen = { version = "0.2", features = ["serde-serialize"] }
+
+[target.'cfg(target_arch = "wasm32")'.dependencies]
+reqwest = { version = "0.12.24", default-features = false, features = ["json"] }

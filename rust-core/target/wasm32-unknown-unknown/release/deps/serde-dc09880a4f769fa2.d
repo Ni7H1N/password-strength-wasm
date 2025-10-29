@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\deps\serde-dc09880a4f769fa2.d: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\build\serde-3d878517d2d5e482\out/private.rs
+
+C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\deps\libserde-dc09880a4f769fa2.rlib: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\build\serde-3d878517d2d5e482\out/private.rs
+
+C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\deps\libserde-dc09880a4f769fa2.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\build\serde-3d878517d2d5e482\out/private.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\HP\Desktop\password-strength\rust-core\target\wasm32-unknown-unknown\release\build\serde-3d878517d2d5e482\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\HP\\Desktop\\password-strength\\rust-core\\target\\wasm32-unknown-unknown\\release\\build\\serde-3d878517d2d5e482\\out

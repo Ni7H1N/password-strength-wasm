@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+/* Make the background image vivid and sharp */
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: url("/bg-layout.png") no-repeat center center fixed;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #0f172a; /* fallback: Tailwind gray-900 */
+}
+
+/* Optional: Add a soft dark overlay to increase text contrast */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4); /* adjust 0.4 → lower for more visible bg */
+  pointer-events: none;
+  z-index: -1;
+}
