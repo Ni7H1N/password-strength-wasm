@@ -333,18 +333,4 @@ Free to use, modify, and distribute with attribution.
 ✨ *Built with Rust, React, and a passion for secure software.* 🔐
 
 ```
-
----
-
-✅ **Instructions to use:**
-
-1. In **VS Code**, create a new file:  
-   `README.md`
-
-2. Paste everything above (from `# Password Strength...` down).
-
-3. Save and preview with `Ctrl+Shift+V` (Markdown preview).
-
-4. Commit and push to GitHub — it will render beautifully with headings, code blocks, and emojis.
-
 ---
