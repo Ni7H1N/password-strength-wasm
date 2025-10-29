@@ -6,7 +6,14 @@
 > Built with **Vite + React + Tailwind + Rust + wasm-bindgen**.
 
 ---
+## 🖼️ Screenshots
 
+### Password Strength Checker
+![Password Strength Checker](./assets/Passwordcheck.png)
+
+### Password Generator
+![Password Generator](./assets/PasswordGenerator.png)
+---
 ## 🧭 Table of Contents
 
 1. [Project Overview](#project-overview)
